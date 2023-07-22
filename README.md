@@ -1,4 +1,4 @@
-![image]('https://cdn.hashnode.com/res/hashnode/image/upload/v1669759935888/AfT-iOPJL.png?auto=compress,format&format=webp')
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1669759935888/AfT-iOPJL.png?auto=compress,format&format=webp)
 # Deploying diabetes app in streamlit
 A Streamlit app for diabetes prediction is a web-based application built using Streamlit, an open-source Python library.
 The app allows users to input various health parameters related to diabetes risk factors, such as the number of pregnancies, glucose level, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age. 
