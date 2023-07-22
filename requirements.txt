@@ -1,5 +1,8 @@
 streamlit
 altair==4.1.0
+numpy
+pickle
+
 
 
 
