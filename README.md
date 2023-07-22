@@ -9,5 +9,7 @@ Streamlit simplifies the process of creating interactive web applications from P
 With Streamlit, data scientists and developers can quickly create web interfaces to showcase data visualizations, models, and other insights, empowering users with the ability to interactively explore data and make informed decisions.
 
 ## to run this app 
-Download all the files and go to the working environment, in cmd prompt type ## streamlit run "path of file to run"
+Download all the files and go to the working environment, in cmd prompt type 
+
+## streamlit run "path of file to run"
 
