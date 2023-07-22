@@ -8,3 +8,6 @@ The app provides a user-friendly interface where individuals can easily enter th
 Streamlit simplifies the process of creating interactive web applications from Python scripts, making it an ideal choice for developing data apps and prototypes.
 With Streamlit, data scientists and developers can quickly create web interfaces to showcase data visualizations, models, and other insights, empowering users with the ability to interactively explore data and make informed decisions.
 
+## to run this app 
+Download all the files and go to the working environment, in cmd prompt type ## streamlit run "path of file to run"
+
