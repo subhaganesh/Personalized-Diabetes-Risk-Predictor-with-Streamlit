@@ -1,0 +1,4 @@
+streamlit
+altairpip install altair==4.1.0
+
+
