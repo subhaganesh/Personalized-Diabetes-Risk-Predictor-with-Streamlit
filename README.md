@@ -13,4 +13,6 @@ Download all the files and go to the working environment, in cmd prompt type
 
 ## streamlit run "path of file to run"
 
+# https://insurancepy-er951hn1olh.streamlit.app/
+
 
