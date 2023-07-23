@@ -8,7 +8,7 @@ from altair.vegalite.v4.api import Chart
 
 
 #loading the saved model
-diabetes_model = pickle.load(open("C:/Users/subha/streamlit/diabetes_model.sav", 'rb'))
+diabetes_model = pickle.load(open("diabetes_model.sav", 'rb'))
 
 
 
