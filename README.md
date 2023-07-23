@@ -10,6 +10,6 @@ With Streamlit, data scientists and developers can quickly create web interfaces
 
 ## To run this app 
 
-# https://insurancepy-er951hn1olh.streamlit.app/
+# https://diabetes-female.streamlit.app/
 
 
