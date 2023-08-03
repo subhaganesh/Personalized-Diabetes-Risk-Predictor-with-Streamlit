@@ -10,6 +10,6 @@ With Streamlit, data scientists and developers can quickly create web interfaces
 
 # To run this app 
 
-## https://diabetes-female.streamlit.app/
+## https://huggingface.co/spaces/subhaganesh/diabetes_prediction
 
 
