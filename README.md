@@ -10,10 +10,15 @@ With Streamlit, data scientists and developers can quickly create web interfaces
 
 # Tools Required
 Hugging face spaces
+
 streamlit
+
 sikitlearn
+
 python
+
 numpy
+
 pandas
 
 # To run this app 
