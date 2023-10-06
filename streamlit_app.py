@@ -2,7 +2,8 @@ import numpy as np
 import pickle
 import streamlit as st
 import altair as alt
-from altair.vegalite.v4.api import Chart
+#from altair.vegalite.v4.api import Chart
+import altair as alt
 
 
 #loading the saved model
